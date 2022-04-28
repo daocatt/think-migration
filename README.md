@@ -2,8 +2,11 @@
 
 ## 安装
 ~~~
-composer require topthink/think-migration
+composer require topthink/think-migration:2.0.x
 ~~~
+
+## v2.0.4
+兼容 php7.4
 
 ## 修改（v2.0.3）
 * Column的类型报错
